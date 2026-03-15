@@ -26,3 +26,8 @@ A 15-day sales forecast was created using Power BI forecasting techniques to pre
 - Forecasting
 
 ## Dashboard Preview
+
+![Superstore Dashboard](S3d.png)
+
+
+![Sales Forecast Dashboard](S3d1.png)
